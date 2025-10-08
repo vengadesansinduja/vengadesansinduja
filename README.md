@@ -5,21 +5,21 @@ United States · vengadesansinduja@gmail.com
 
 [LinkedIn](https://www.linkedin.com/in/sindujavengadesan/) | [GitHub](https://github.com/vengadesansinduja) | [Medium Tech Blog](https://vengadesansinduja.medium.com/) 
 
-## Technical Skills
+## What are my core skills? 
 
-**Programming:** Python, SQL, Java, Typescript, Bash
+**Programming:** Python, SQL, Typescript, Bash
 
-**Cloud & Big Data:** AWS, GCP, Apache Spark, Flink, Hadoop, Hive, Kafka, Airflow
+**Cloud & Big Data:** AWS, Apache Spark, Kafka, Airflow, Iceberg
 
-**Data Engineering:** ETL/ELT, dbt, Data Lakehouse, Schema Design, API Integration
+**Data Engineering Core Methodologies** ETL/ELT, dbt, Data Lakehouse, Schema Design, Data Modeling, Data Lineage
 
 **Databases:** PostgreSQL, MySQL, MongoDB, DynamoDB, Redshift
 
 **Visualization:** Tableau, PowerBI, Quicksight
 
-**AI & Agentic Workflows:** LLMs, NLP, LangChain, RAG, Pinecone, Opensearch, Prompt Engineering
+**AI & Agentic Workflows:** LLMs, NLP, LangChain/LangGraph, Strands-SDK, Multi-Agent Communication Protocols (Workflows, A2A, Model Context Protocol (MCP)) RAG, Vector DB (Pinecone, Opensearch), Prompt Engineering
 
-**Automation & Monitoring:** Docker, Kubernetes, REST API, FastAPI, CICD
+**Automation & Monitoring:** Docker, Kubernetes, REST API, FastAPI, CI/CD
 
 ## Professional Experience
 
