@@ -1,25 +1,9 @@
 # Sinduja Vengadesan
-Data & AI | Applied Modern Data Architectures | Applied AI
+Data Engineer 
 
-United States · vengadesansinduja@gmail.com
+Data & AI | vengadesansinduja@gmail.com 
 
 [LinkedIn](https://www.linkedin.com/in/sindujavengadesan/) | [GitHub](https://github.com/vengadesansinduja) | [Medium Tech Blog](https://vengadesansinduja.medium.com/) 
-
-## What are my core skills? 
-
-**Programming:** Python, SQL, Typescript, Bash
-
-**Cloud & Big Data:** AWS, Apache Spark, Kafka, Airflow, Iceberg
-
-**Data Engineering Core Methodologies** ETL/ELT, dbt, Data Lakehouse, Schema Design, Data Modeling, Data Lineage
-
-**Databases:** PostgreSQL, MySQL, MongoDB, DynamoDB, Redshift
-
-**Visualization:** Tableau, PowerBI, Quicksight
-
-**AI & Agentic Workflows:** LLMs, NLP, LangChain/LangGraph, Strands-SDK, Multi-Agent Communication Protocols (Workflows, A2A, Model Context Protocol (MCP)) RAG, Vector DB (Pinecone, Opensearch), Prompt Engineering
-
-**Automation & Monitoring:** Docker, Kubernetes, REST API, FastAPI, CI/CD
 
 ## Professional Experience
 
